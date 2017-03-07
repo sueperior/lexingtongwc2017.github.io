@@ -8,5 +8,5 @@ Teachers:
 
 Class: 
   Nora Bulovic, 
-  Rebecca Mathew
-  Pip Fletcher
+  Rebecca Mathew,
+  Pip Fletcher,
